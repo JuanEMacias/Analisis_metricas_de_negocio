@@ -41,7 +41,7 @@ Marketing:
 ## Tecnologías
 ***
 Los recursos utilizados en este proyecto son:
-* LibrerÍas de Python 
+* Librerías de Python 
 	* Pandas 
 	* Numpy
 	* Matplotlib
